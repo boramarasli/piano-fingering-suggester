@@ -1,0 +1,7 @@
+# One melody per line:   name: notes
+# Right hand, one note at a time. C4 is middle C. Sharps with #, flats with b (F#4, Bb4).
+C major scale up: C4 D4 E4 F4 G4 A4 B4 C5
+C major scale down: C5 B4 A4 G4 F4 E4 D4 C4
+C major arpeggio: C4 E4 G4 C5
+Five-finger exercise: C4 D4 E4 F4 G4 F4 E4 D4 C4
+G major scale up: G4 A4 B4 C5 D5 E5 F#5 G5
